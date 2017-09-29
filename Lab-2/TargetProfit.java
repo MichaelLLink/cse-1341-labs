@@ -8,7 +8,7 @@ public static void main(String[] args)
 	System.out.println("What is the cost of the product?");
 	double cost = tpinput.nextDouble();
 	double price = cost * (cost + (cost*profitMargin));
-	System.out.printf("The target price is $%d", price);
+	System.out.printf("The target price is $%f”, price);
 }
 
 }
