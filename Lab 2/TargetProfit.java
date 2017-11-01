@@ -1,3 +1,4 @@
+//Michael Link, 47402281, CSE 1341 Lab 2 - Fall 2017
 import java.util.Scanner; //importing scanner class
 public class TargetProfit
 {
